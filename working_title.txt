@@ -1,4 +1,4 @@
-Working title:
+﻿Working title:
 Dragons & Miniguns
 
 Team members:
@@ -7,6 +7,10 @@ Tuomo Kärkkäinen
 Kristian Toro
 Johanna äijälä
 Jarno Lonardi
+
+Engine
+The game will be done using Unity
+The game wille be in 3D
 
 
 Game story (may not be seen in the final wersion):
