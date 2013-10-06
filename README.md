@@ -1,4 +1,4 @@
-Small_ game
+Small_game
 
 Oma pikkupeli
 
