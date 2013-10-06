@@ -1,0 +1,38 @@
+Working title:
+Dragons & Miniguns
+
+Team members:
+Emmi Otava
+Tuomo Kärkkäinen
+Kristian Toro
+Johanna Äijälä
+Jarno Lonardi
+
+
+Game story (may not be seen in the final wersion):
+
+The player has stolen a treasure from the monsters. Now his/hers task is to protect the treasure from the monsters that want it back.
+
+
+
+Core gameplay:
+The game will be a kind of fps capture the flag game.
+At the beginning of the game, player is given a treasure.
+The player has to deploy the treasure somewhere in the map.
+After this the treasure cant be moved. 
+After this monsters will spawn and trie to steal the treasure. The player has to protect the treasure.
+The game will end when the player dies or if the whole treasure is stolen.
+
+Enemies target mainly the treasure, but they do attack if player is nearby or are attacked by the player.
+The terrain will have different places in the terrain that is good for defence in different way. 
+
+
+
+Special features (if there's time to implement):
+Enemies can come in waves.
+Enemies may spawn randomly from different directions on each wave.
+Enemies with different skillsets may spawn on different waves.
+
+Multiplayer co-op.
+
+The treasure can be moved later
