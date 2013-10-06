@@ -5,6 +5,7 @@ Oma pikkupeli
 Download the zip and extract it.
 After this you can start the game using "oma pikkupeli.exe"
 For the game to work right choose quality simple or better.
+Use the windowed mode so that you can close the game using the x in the upper right corner
 
 
 In the game:
