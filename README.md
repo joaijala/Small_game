@@ -9,12 +9,12 @@ For the game to work right choose quality simple or better.
 
 In the game:
 Using default settings
--Move the mouse to look around
--Press left mouce button to shoot balls
+- Move the mouse to look around
+- Press left mouce button to shoot balls
 - Use a,w,s,d to move
 
 
 In the game you can:
--try to get out by breaking the walls
--play around whit the 2 bounzing balls
+- try to get out by breaking the walls
+- play around whit the 2 bounzing balls
 
