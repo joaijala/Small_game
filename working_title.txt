@@ -9,8 +9,8 @@ Johanna äijälä
 Jarno Lonardi
 
 Engine
-The game will be done using Unity
-The game wille be in 3D
+The game will be created using Unity and it will be implemented in 3D.
+
 
 
 Game story (may not be seen in the final wersion):
